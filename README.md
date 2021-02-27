@@ -2,6 +2,8 @@
 
 Front End Repo: https://github.com/wickedvic/Frontend-toDoApp
 
+Demo Video: https://youtu.be/6waENH5mTiA
+
 Summary: A web app that allows for users to create/edit/delete tasks, keep track of them on a calendar, and have a fully functioning login and signup with validations
 - Developed Javascript/Redux front-end and a Rails/Active-Record/Postgres back-end application 
 - Authenticated users at login by encrypting identifying account information via JWT. Also used B-CRYPT to hash user passwords and created a sign up function for new users
